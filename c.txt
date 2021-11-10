@@ -1,11 +1,6 @@
-hello
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 FIVE
-=======
-three
->>>>>>> parent of 8c58c33 (FIVE)
 =======
 three
 >>>>>>> parent of 8c58c33 (FIVE)
