@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 hii four
 hii two
+=======
+>>>>>>> parent of 212ddf9 (dho)
 hii one
