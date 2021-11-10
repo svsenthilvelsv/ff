@@ -1,6 +1,12 @@
+start over 1
+
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 FIVE
 two
 one
+=======
+>>>>>>> parent of ab7a732 (two)
 =======
 >>>>>>> parent of ab7a732 (two)
