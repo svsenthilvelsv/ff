@@ -1,8 +1,3 @@
-hello
-
-<<<<<<< HEAD
 three
 two
-=======
->>>>>>> parent of 5a41b34 (two)
 one
