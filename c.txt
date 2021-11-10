@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 FIVE
 two
 one
+=======
+>>>>>>> parent of ab7a732 (two)
