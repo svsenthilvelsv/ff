@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 FIVE
+=======
+three
+>>>>>>> parent of 8c58c33 (FIVE)
 two
 one
 =======
